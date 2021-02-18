@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Joe 👋
+
+
+That's all there is to see for now.
 
 <!--
 **josephmidura/JosephMidura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
