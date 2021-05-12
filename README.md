@@ -1,7 +1,7 @@
 ### Hi, I'm Joe 👋
 
 
-My background is in engineering. I'm a fan of open source and data analytics.
+My background is in engineering. I'm interested in open source and data analytics.
 
 <!--
 **josephmidura/JosephMidura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
