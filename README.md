@@ -1,7 +1,9 @@
-### Hi, I'm Joe 👋
+### Hello 👋
 
 I'm Joseph Midura. My background is in engineering. I like open source software
 and data/analytics projects. I'm currently exploring the world of service mesh management.
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/josephmidura/) or [Twitter](https://twitter.com/josephmidura).
 
 <!--
 **josephmidura/JosephMidura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
