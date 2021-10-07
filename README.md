@@ -3,11 +3,11 @@
 I'm Joseph Midura. My background is in engineering. I like open source software
 and working with data. I'm currently exploring the world of service mesh management.
 
-#### Find me around the web:
+<!--#### Find me around the web:
 
 - My updates on [LinkedIn](https://www.linkedin.com/in/josephmidura/) 
 - My most recent [blog entries](https://josephmidura.wordpress.com).
-
+-->
 <!--
 **josephmidura/JosephMidura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
