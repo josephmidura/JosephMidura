@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Joseph Midura. My background is in engineering. I like open source software
+I'm Joe. My background is in engineering. I like open source software
 and working with data. I'm currently exploring the world of service mesh management.
 
 <!--#### Find me around the web:
