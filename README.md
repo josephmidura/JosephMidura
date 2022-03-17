@@ -1,8 +1,8 @@
 ### Hello 👋
 
-I'm Joe. My background is in engineering. I like open source software
-and working with data. I'm currently exploring the world of containers
-and service mesh management.
+I'm Joe. My background is in engineering. I like solving problems with math, 
+open source software and working with data. I'm currently exploring the world
+of containers and service mesh management.
 
 <!--#### Find me around the web:
 
