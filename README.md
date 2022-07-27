@@ -2,7 +2,7 @@
 
 I'm Joe. My background is in engineering. I like solving problems with math, 
 contributing to open source software, and working with data. I'm currently exploring the world
-of containers and service mesh management.
+of AWS cdk.
 
 <!--#### Find me around the web:
 
