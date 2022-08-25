@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I'm Joe. My background is in engineering. I like solving problems with math, 
-contributing to open source software, and building data infrastructure. I'm currently exploring the uses of AWS cdk.
+contributing to open source software, and building data infrastructure. I'm currently exploring the uses of infrastructure as code.
 
 <!--#### Find me around the web:
 
