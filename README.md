@@ -1,7 +1,8 @@
 ### Hello 👋
 
-I'm Joe. My background is in engineering. I like building data infrastructure, working with
-databases, and contributing to open source software. I'm currently exploring the uses of infrastructure as code.
+I'm Joe. My background is in engineering. I build data infrastructure, 
+work with databases, and contribute to open source software. I'm currently 
+exploring the uses of infrastructure as code.
 
 <!--#### Find me around the web:
 
