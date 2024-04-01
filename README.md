@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I build data infrastructure, work with databases, and contribute to open 
-source software. I'm currently exploring the uses of infrastructure as code.
+source software. 
 
 <!--#### Find me around the web:
 
