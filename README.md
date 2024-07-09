@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I build data infrastructure, work with databases, and contribute to open 
+I build infrastructure, improve DevOps tools, and contribute to open 
 source software. 
 
 <!--#### Find me around the web:
